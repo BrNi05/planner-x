@@ -1,0 +1,13 @@
+v. 5.0.0:
+
+	- the first Planner X with GUI and mouse support
+	- easier to use than ever before
+	- fast & efficient
+	- fixed all known weeknesses and bugs of the latest Planner X v4
+	- well tested
+
+v. 5.1.0: (planned update)
+
+	- fixing known bugs, errors
+	- fixing UI (ex.: button colors, dropdown sizes, etc...)
+	- optional encryption for entries and compulsory for security
